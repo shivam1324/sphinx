@@ -1,12 +1,12 @@
 # BusBuddy.in
 
-![Alt text](static/images/ss.png"logo")
+![Alt text](/static/images/ss.png "logo")
 
 ### A Bus Booking Voice User Interface designed for people with Visual Impairments
 
 Our voice-powered bus booking app empowers the visually impaired, allowing them to effortlessly book and manage their bus tickets with the help of advanced voice technology. Travel with confidence and independence.
 
-## Features - todo
+## Features
 
 - A Voice User Interface which makes ticketing system accessible
 - Intuitive User Experience offers easier onboarding and seamless experience
