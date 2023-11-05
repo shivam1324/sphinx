@@ -26,6 +26,7 @@ BusBuddy.ai uses a number of open source projects to work properly:
 
 ## User Journey
 
+![alt text](/static/images/userj.jpeg)
 [//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
 [dill]: https://github.com/joemccann/dillinger
 [git-repo-url]: https://github.com/joemccann/dillinger.git
@@ -46,3 +47,7 @@ BusBuddy.ai uses a number of open source projects to work properly:
 [PlOd]: https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md
 [PlMe]: https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md
 [PlGa]: https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md
+
+## User Interface
+
+![alt text](/static/images/proto.jpeg)
