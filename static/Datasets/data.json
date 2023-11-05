@@ -1,0 +1,400 @@
+{
+  "buses": [
+    {
+      "name": "GK Travels and Sons",
+      "from": "Jaipur",
+      "to": "Delhi",
+      "time": "14:30",
+      "date": "12-03-2023",
+      "price": 700,
+      "ratings": 4.1
+    },
+    {
+      "name": "Fast Track Express",
+      "from": "Mumbai",
+      "to": "Pune",
+      "time": "09:45",
+      "date": "15-03-2023",
+      "price": 550,
+      "ratings": 4.5
+    },
+    {
+      "name": "City Connect Transport",
+      "from": "Bangalore",
+      "to": "Chennai",
+      "time": "16:00",
+      "date": "20-03-2023",
+      "price": 800,
+      "ratings": 3.9
+    },
+    {
+      "name": "Comfort Rides",
+      "from": "Delhi",
+      "to": "Jaipur",
+      "time": "15:15",
+      "date": "14-03-2023",
+      "price": 720,
+      "ratings": 4.2
+    },
+    {
+      "name": "Swift Transits",
+      "from": "Pune",
+      "to": "Mumbai",
+      "time": "11:30",
+      "date": "16-03-2023",
+      "price": 600,
+      "ratings": 4.0
+    },
+    {
+      "name": "Green Line Express",
+      "from": "Chennai",
+      "to": "Bangalore",
+      "time": "17:45",
+      "date": "21-03-2023",
+      "price": 820,
+      "ratings": 4.3
+    },
+    {
+      "name": "Surya Travels",
+      "from": "Hyderabad",
+      "to": "Vijayawada",
+      "time": "10:00",
+      "date": "13-03-2023",
+      "price": 500,
+      "ratings": 4.4
+    },
+    {
+      "name": "Blue Sky Buses",
+      "from": "Vijayawada",
+      "to": "Hyderabad",
+      "time": "12:30",
+      "date": "19-03-2023",
+      "price": 480,
+      "ratings": 3.8
+    },
+    {
+      "name": "Sunrise Travels",
+      "from": "Kolkata",
+      "to": "Patna",
+      "time": "13:00",
+      "date": "18-03-2023",
+      "price": 600,
+      "ratings": 4.1
+    },
+    {
+      "name": "Royal Coaches",
+      "from": "Patna",
+      "to": "Kolkata",
+      "time": "16:15",
+      "date": "17-03-2023",
+      "price": 620,
+      "ratings": 4.0
+    },
+    {
+      "name": "Golden Arrow Travels",
+      "from": "Ahmedabad",
+      "to": "Surat",
+      "time": "15:45",
+      "date": "13-03-2023",
+      "price": 450,
+      "ratings": 4.3
+    },
+    {
+      "name": "Silver Linings Buses",
+      "from": "Surat",
+      "to": "Ahmedabad",
+      "time": "14:00",
+      "date": "19-03-2023",
+      "price": 430,
+      "ratings": 3.9
+    },
+    {
+      "name": "A1 Travels",
+      "from": "Chandigarh",
+      "to": "Ludhiana",
+      "time": "11:30",
+      "date": "15-03-2023",
+      "price": 350,
+      "ratings": 4.2
+    },
+    {
+      "name": "Himalayan Express",
+      "from": "Ludhiana",
+      "to": "Chandigarh",
+      "time": "14:00",
+      "date": "20-03-2023",
+      "price": 370,
+      "ratings": 3.8
+    },
+    {
+      "name": "Southern Comfort",
+      "from": "Chennai",
+      "to": "Madurai",
+      "time": "13:45",
+      "date": "12-03-2023",
+      "price": 600,
+      "ratings": 4.4
+    },
+    {
+      "name": "Northern Lights Express",
+      "from": "Madurai",
+      "to": "Chennai",
+      "time": "16:30",
+      "date": "16-03-2023",
+      "price": 620,
+      "ratings": 4.1
+    },
+    {
+      "name": "Eastern Travels",
+      "from": "Kolkata",
+      "to": "Bhubaneswar",
+      "time": "09:30",
+      "date": "14-03-2023",
+      "price": 700,
+      "ratings": 4.2
+    },
+    {
+      "name": "Western Express",
+      "from": "Bhubaneswar",
+      "to": "Kolkata",
+      "time": "12:00",
+      "date": "18-03-2023",
+      "price": 680,
+      "ratings": 3.9
+    },
+    {
+      "name": "Sunset Travels",
+      "from": "Mumbai",
+      "to": "Goa",
+      "time": "10:45",
+      "date": "13-03-2023",
+      "price": 550,
+      "ratings": 4.3
+    },
+    {
+      "name": "Seaside Breeze Buses",
+      "from": "Goa",
+      "to": "Mumbai",
+      "time": "15:15",
+      "date": "19-03-2023",
+      "price": 530,
+      "ratings": 4.0
+    },
+    {
+      "name": "Hilltop Adventures",
+      "from": "Shimla",
+      "to": "Manali",
+      "time": "11:00",
+      "date": "15-03-2023",
+      "price": 650,
+      "ratings": 4.2
+    },
+    {
+      "name": "Valley View Transport",
+      "from": "Manali",
+      "to": "Shimla",
+      "time": "14:30",
+      "date": "20-03-2023",
+      "price": 630,
+      "ratings": 3.8
+    },
+    {
+      "name": "Pristine Travels",
+      "from": "Lucknow",
+      "to": "Varanasi",
+      "time": "12:30",
+      "date": "16-03-2023",
+      "price": 450,
+      "ratings": 4.4
+    },
+    {
+      "name": "Ganges Express",
+      "from": "Varanasi",
+      "to": "Lucknow",
+      "time": "15:00",
+      "date": "18-03-2023",
+      "price": 470,
+      "ratings": 4.1
+    },
+    {
+      "name": "Rajdhani Roadways",
+      "from": "Delhi",
+      "to": "Agra",
+      "time": "14:45",
+      "date": "14-03-2023",
+      "price": 500,
+      "ratings": 4.2
+    },
+    {
+      "name": "Taj Mahal Travels",
+      "from": "Agra",
+      "to": "Delhi",
+      "time": "16:15",
+      "date": "17-03-2023",
+      "price": 520,
+      "ratings": 3.9
+    },
+    {
+      "name": "Coastal Connections",
+      "from": "Chennai",
+      "to": "Pondicherry",
+      "time": "10:30",
+      "date": "13-03-2023",
+      "price": 400,
+      "ratings": 4.3
+    },
+    {
+      "name": "Pondicherry Paradise",
+      "from": "Pondicherry",
+      "to": "Chennai",
+      "time": "14:00",
+      "date": "19-03-2023",
+      "price": 380,
+      "ratings": 4.0
+    },
+    {
+      "name": "Green Valley Buses",
+      "from": "Bangalore",
+      "to": "Mysore",
+      "time": "13:45",
+      "date": "15-03-2023",
+      "price": 550,
+      "ratings": 4.2
+    },
+    {
+      "name": "Royal Routes",
+      "from": "Mysore",
+      "to": "Bangalore",
+      "time": "16:30",
+      "date": "20-03-2023",
+      "price": 530,
+      "ratings": 3.8
+    },
+    {
+      "name": "Golden Sands Transport",
+      "from": "Kochi",
+      "to": "Trivandrum",
+      "time": "09:30",
+      "date": "12-03-2023",
+      "price": 700,
+      "ratings": 4.4
+    },
+    {
+      "name": "Backwater Express",
+      "from": "Trivandrum",
+      "to": "Kochi",
+      "time": "12:00",
+      "date": "16-03-2023",
+      "price": 720,
+      "ratings": 4.1
+    },
+    {
+      "name": "Bengaluru Breezes",
+      "from": "Chennai",
+      "to": "Coimbatore",
+      "time": "10:45",
+      "date": "14-03-2023",
+      "price": 600,
+      "ratings": 4.2
+    },
+    {
+      "name": "Kovai Connect",
+      "from": "Coimbatore",
+      "to": "Chennai",
+      "time": "15:15",
+      "date": "18-03-2023",
+      "price": 580,
+      "ratings": 3.9
+    },
+    {
+      "name": "Himalayan Haul",
+      "from": "Shimla",
+      "to": "Dharamshala",
+      "time": "11:00",
+      "date": "13-03-2023",
+      "price": 650,
+      "ratings": 4.3
+    },
+    {
+      "name": "Peaceful Pathways",
+      "from": "Dharamshala",
+      "to": "Shimla",
+      "time": "14:30",
+      "date": "19-03-2023",
+      "price": 630,
+      "ratings": 4.0
+    },
+    {
+      "name": "Vibrant Voyages",
+      "from": "Jaipur",
+      "to": "Udaipur",
+      "time": "12:30",
+      "date": "15-03-2023",
+      "price": 550,
+      "ratings": 4.2
+    },
+    {
+      "name": "Lake City Express",
+      "from": "Udaipur",
+      "to": "Jaipur",
+      "time": "16:00",
+      "date": "20-03-2023",
+      "price": 530,
+      "ratings": 3.8
+    },
+    {
+      "name": "Oceanic Travels",
+      "from": "Mumbai",
+      "to": "Kolkata",
+      "time": "13:45",
+      "date": "12-03-2023",
+      "price": 800,
+      "ratings": 4.4
+    },
+    {
+      "name": "City of Joy Buses",
+      "from": "Kolkata",
+      "to": "Mumbai",
+      "time": "16:30",
+      "date": "16-03-2023",
+      "price": 780,
+      "ratings": 4.1
+    },
+    {
+      "name": "Heritage Highways",
+      "from": "Delhi",
+      "to": "Amritsar",
+      "time": "09:30",
+      "date": "14-03-2023",
+      "price": 700,
+      "ratings": 4.2
+    },
+    {
+      "name": "Golden Temple Express",
+      "from": "Amritsar",
+      "to": "Delhi",
+      "time": "12:00",
+      "date": "18-03-2023",
+      "price": 720,
+      "ratings": 3.9
+    },
+    {
+      "name": "Rajasthan Routes",
+      "from": "Jaipur",
+      "to": "Jodhpur",
+      "time": "10:45",
+      "date": "13-03-2023",
+      "price": 500,
+      "ratings": 4.3
+    },
+    {
+      "name": "Blue City Breezes",
+      "from": "Jodhpur",
+      "to": "Jaipur",
+      "time": "15:15",
+      "date": "19-03-2023",
+      "price": 480,
+      "ratings": 4.0
+    }
+  ]
+}
