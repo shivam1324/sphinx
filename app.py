@@ -30,8 +30,7 @@ app.debug = True
 asr_processor = WhisperProcessor.from_pretrained("openai/whisper-small")
 asr_model = WhisperForConditionalGeneration.from_pretrained("openai/whisper-small")
 asr_model.config.forced_decoder_ids = None
-nlp = spacy.load("/static/ner_model")
-ner = nlp.get_pipe("ner")
+
 
 @app.route('/')
 def index():
