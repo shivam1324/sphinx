@@ -1,6 +1,6 @@
 # BusBuddy.in
 
-![Alt text](/static/images/ss.png "logo")
+![alt text](/static/images/ss.png)
 
 ### A Bus Booking Voice User Interface designed for people with Visual Impairments
 
